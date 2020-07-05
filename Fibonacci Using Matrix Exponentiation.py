@@ -1,5 +1,5 @@
 #fibonacci series using matrix exponentiation 
-#created by Mehul Upase 
+#Auhtor @Mehulupase01
 
 def multiply(x,y):
 	if ( len(y) == 2 ):
